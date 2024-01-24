@@ -11,5 +11,6 @@ After running this command, you will be able to run a Python script using the co
 assuming you are in the same directory as your file.
 
 ### Attention!
-Don’t forget that at the beginning of the script file you have written a shebang for the  
-correct Python interpreter (if the scripts are written in Python)
+Don’t forget that at the beginning of the script file you have written a  
+shebang (e.g. ```#!/usr/bin/env python3```) for the correct Python interpreter  
+(if the scripts are written in Python)
